@@ -1,11 +1,57 @@
 # Hi 👋, I'm Angel Flores
 
-### IT System and DevOps Engineer
+### Senior IT Systems & DevOps Engineer
 
-- 🔭 I'm currently working on **Tickrtxt.com, algorithm trading tool. **
+DevOps and Systems Engineer with **5+ years of experience** designing, operating, and scaling **production infrastructure** across **enterprise and mid-sized environments**. Strong focus on **reliability, security, and automation**, with hands-on ownership of live SaaS platforms.
 
-- 🌱 I'm currently learning **Terraform**
+Founder and operator of **Tickrtxt.com**, an **algorithmic trading SaaS** with **160+ active users**, built and maintained end-to-end. The platform runs on **on-prem infrastructure**, securely published using **Cloudflare Tunnel**, and is fully containerized and orchestrated with **Docker and k3s (Kubernetes)**. I design and maintain **CI/CD pipelines using GitHub Actions**, ensuring safe, repeatable, and automated deployments to internet-facing services.
+
+- 🔭 Building **Tickrtxt.com** — production SaaS & algorithmic trading platform  
+- 🌱 Learning **Terraform** to formalize infrastructure as code and improve reproducibility  
+
+---
+
+### What I’m Building
+
+- **Production SaaS Infrastructure**  
+  Designing and operating a real-world SaaS platform with active users, uptime requirements, and secure public access.
+
+- **On-Prem + Cloud-Native Systems**  
+  Running Kubernetes workloads on on-prem hardware while leveraging modern cloud tooling for security, delivery, and observability.
+
+- **Automated Delivery Pipelines**  
+  CI/CD workflows with GitHub Actions for container builds, testing, and controlled deployments.
+
+---
+
+### What I Care About
+
+- **Reliable Systems** — infrastructure that is stable, predictable, and scalable  
+- **Security by Design** — private networks, zero-trust exposure, minimal attack surface  
+- **Automation First** — reducing manual work through CI/CD and infrastructure as code  
+- **End-to-End Ownership** — build it, ship it, run it, improve it  
+
+---
+
+### Core Skills & Technologies
+
+**DevOps & Infrastructure**
+- Docker, Kubernetes (k3s), GitHub Actions, CI/CD
+- Cloudflare Tunnel, NGINX, Linux
+- Monitoring & visualization (Grafana)
+
+**Cloud & Platforms**
+- AWS, Azure
+- On-prem infrastructure
+- Terraform (learning / in progress)
+
+**Data & Backend**
+- PostgreSQL
+- Python
+- Streamlit
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a></p>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,git,grafana,html,kubernetes,linux,nginx,postgres,py" />
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/>
+</p>
