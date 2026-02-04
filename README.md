@@ -11,6 +11,21 @@ Founder and operator of **Tickrtxt.com**, an **algorithmic trading SaaS platform
 
 ---
 
+### Tickrtxt.com Usage & Impact
+
+- Over **1,200 page views** and **149 active users** actively engaging with the platform  
+- Recorded **5,700+ events** tracked, demonstrating real-time user interaction and platform reliability  
+- Maintains a healthy **bounce rate of 37.3%**, indicating strong user retention and engagement
+
+<img width="812" height="233" alt="image" src="https://github.com/user-attachments/assets/4bc02d31-2adc-4dfd-b4e2-78dad8f05369" />
+<img width="812" height="233" alt="image" src="https://github.com/user-attachments/assets/4bc02d31-2adc-4dfd-b4e2-78dad8f05369" />
+
+
+
+These metrics reflect the stability and scalability of the underlying infrastructure I architected, including on-prem Kubernetes (k3s), CI/CD pipelines via GitHub Actions, and secure internet access through Cloudflare Tunnel.
+
+---
+
 ### What I’m Building
 
 - **Production SaaS Infrastructure**  
