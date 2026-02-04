@@ -2,33 +2,33 @@
 
 ### Senior IT Systems & DevOps Engineer
 
-DevOps and Systems Engineer with **5+ years of experience** designing, operating, and scaling **production infrastructure** across **enterprise and mid-sized environments**. Strong focus on **reliability, security, and automation**, with hands-on ownership of live SaaS platforms.
+Senior IT Systems and DevOps Engineer with **5+ years of experience** designing, operating, and supporting **production infrastructure** across **enterprise and mid-sized business environments**. I specialize in **on-prem infrastructure**, **containerized platforms**, and **automation-first delivery pipelines**.
 
-Founder and operator of **Tickrtxt.com**, an **algorithmic trading SaaS** with **160+ active users**, built and maintained end-to-end. The platform runs on **on-prem infrastructure**, securely published using **Cloudflare Tunnel**, and is fully containerized and orchestrated with **Docker and k3s (Kubernetes)**. I design and maintain **CI/CD pipelines using GitHub Actions**, ensuring safe, repeatable, and automated deployments to internet-facing services.
+I am the founder and operator of **Tickrtxt.com**, an **algorithmic trading SaaS platform** serving **160+ active users**. I designed and deployed the platform end-to-end on **on-prem Kubernetes (k3s)**, securely exposed to the internet using **Cloudflare Tunnel**. The platform is fully containerized with **Docker** and delivered through **CI/CD pipelines built with GitHub Actions**.
 
-- 🔭 Building **Tickrtxt.com** — production SaaS & algorithmic trading platform  
-- 🌱 Learning **Terraform** to formalize infrastructure as code and improve reproducibility  
+- 🔭 Currently building **Tickrtxt.com** — a production SaaS platform  
+- 🌱 Currently learning **Terraform** to implement infrastructure as code  
 
 ---
 
 ### What I’m Building
 
 - **Production SaaS Infrastructure**  
-  Designing and operating a real-world SaaS platform with active users, uptime requirements, and secure public access.
+  Architecting and operating a live SaaS platform with real users, uptime requirements, and secure public access.
 
-- **On-Prem + Cloud-Native Systems**  
-  Running Kubernetes workloads on on-prem hardware while leveraging modern cloud tooling for security, delivery, and observability.
+- **On-Prem Kubernetes Platforms**  
+  Managing containerized workloads on on-prem hardware using k3s.
 
-- **Automated Delivery Pipelines**  
-  CI/CD workflows with GitHub Actions for container builds, testing, and controlled deployments.
+- **Automated CI/CD Pipelines**  
+  Designing reliable GitHub Actions workflows for build, test, and deployment automation.
 
 ---
 
 ### What I Care About
 
 - **Reliable Systems** — infrastructure that is stable, predictable, and scalable  
-- **Security by Design** — private networks, zero-trust exposure, minimal attack surface  
-- **Automation First** — reducing manual work through CI/CD and infrastructure as code  
+- **Security by Design** — zero-trust exposure and minimized attack surfaces  
+- **Automation First** — reducing manual work through CI/CD and IaC  
 - **End-to-End Ownership** — build it, ship it, run it, improve it  
 
 ---
@@ -43,7 +43,7 @@ Founder and operator of **Tickrtxt.com**, an **algorithmic trading SaaS** with *
 **Cloud & Platforms**
 - AWS, Azure
 - On-prem infrastructure
-- Terraform (learning / in progress)
+- Terraform (learning)
 
 **Data & Backend**
 - PostgreSQL
