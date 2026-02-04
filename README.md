@@ -6,7 +6,7 @@ Senior IT Systems and DevOps Engineer with **5+ years of experience** designing,
 
 Founder and operator of **Tickrtxt.com**, an **algorithmic trading SaaS platform** serving **160+ active users**. I architected and deployed the platform end-to-end on **on-prem Kubernetes (k3s)**, securely exposed to the internet using **Cloudflare Tunnel**. The system is fully containerized with **Docker** and delivered through **CI/CD pipelines implemented with GitHub Actions**, enabling reliable and repeatable deployments.
 
-- 🔭 Currently building **Tickrtxt.com** — a production SaaS platform  
+- 🔭 Currently building **www.tickrtxt.com** — a production SaaS platform  
 - 🌱 Currently learning **Terraform** to formalize infrastructure as code  
 
 ---
@@ -17,7 +17,6 @@ Founder and operator of **Tickrtxt.com**, an **algorithmic trading SaaS platform
 - Recorded **5,700+ events** tracked, demonstrating real-time user interaction and platform reliability  
 - Maintains a healthy **bounce rate of 37.3%**, indicating strong user retention and engagement
 
-<img width="812" height="233" alt="image" src="https://github.com/user-attachments/assets/4bc02d31-2adc-4dfd-b4e2-78dad8f05369" />
 <img width="812" height="233" alt="image" src="https://github.com/user-attachments/assets/4bc02d31-2adc-4dfd-b4e2-78dad8f05369" />
 
 
