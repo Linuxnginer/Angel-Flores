@@ -1,12 +1,15 @@
-# Hi 👋, I'm Angel Flores
+# Hi , I'm Angel Flores
 
-### Senior IT Systems & DevOps Engineer
+### IT Systems & DevOps Engineer
 
 Senior IT Systems and DevOps Engineer with **5+ years of experience** operating **production infrastructure** across **enterprise and mid-sized business environments**. Strong background in **on-prem infrastructure**, **containerized platforms**, **secure network architectures**, and **automation-driven delivery pipelines**.
 
 Founder and operator of **Tickrtxt.com**, an **algorithmic trading SaaS platform** serving **160+ active users**. I architected and deployed the platform end-to-end on **on-prem Kubernetes (k3s)**, securely exposed to the internet using **Cloudflare Tunnel**. The system is fully containerized with **Docker** and delivered through **CI/CD pipelines implemented with GitHub Actions**, enabling reliable and repeatable deployments.
 
-- 🔭 Currently building **www.tickrtxt.com** — a production SaaS platform  
+SaaS live and active users:
+
+-  **www.tickrtxt.com** — a production FinSaaS platform
+-  **www.nightvzn.xyz** - Cybersecurity SaaS
 - 🌱 Currently learning **Terraform** to formalize infrastructure as code  
 
 ---
