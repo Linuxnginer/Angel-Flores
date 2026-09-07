@@ -1,96 +1,293 @@
-# Hi , I'm Angel Flores
+# Hi, I'm Angel Flores 👋
 
-### IT Systems & DevOps Engineer
+### Cybersecurity Systems Engineer — CMMC & NIST Compliance Focus
 
-Senior IT Systems and DevOps Engineer with **5+ years of experience** operating **production infrastructure** across **enterprise and mid-sized business environments**. Strong background in **on-prem infrastructure**, **containerized platforms**, **secure network architectures**, and **automation-driven delivery pipelines**.
+Cybersecurity-focused **Systems Engineer** with **5+ years of experience** designing, deploying, securing, and operating production IT infrastructure across enterprise and mid-sized business environments.
 
-Founder and operator of **Tickrtxt.com**, an **algorithmic trading SaaS platform** serving **160+ active users**. I architected and deployed the platform end-to-end on **on-prem Kubernetes (k3s)**, securely exposed to the internet using **Cloudflare Tunnel**. The system is fully containerized with **Docker** and delivered through **CI/CD pipelines implemented with GitHub Actions**, enabling reliable and repeatable deployments.
+My background combines **systems engineering, cybersecurity, infrastructure, Zero Trust, DevSecOps, and automation**, with a growing focus on **CMMC and NIST-aligned security environments**.
 
-SaaS live and active users:
-
--  **www.tickrtxt.com** — a production FinSaaS platform
--  **www.nightvzn.xyz** - Cybersecurity SaaS
-- 🌱 Currently learning **Terraform** to formalize infrastructure as code  
+I build infrastructure that is **secure, resilient, observable, automated, and auditable**.
 
 ---
 
-### Tickrtxt.com Usage & Impact
+## 🔐 Cybersecurity & Compliance Focus
 
-- Over **1,200 page views** and **149 active users** actively engaging with the platform  
-- Recorded **5,700+ events** tracked, demonstrating real-time user interaction and platform reliability  
-- Maintains a healthy **bounce rate of 37.3%**, indicating strong user retention and engagement
-
-<img width="812" height="233" alt="image" src="https://github.com/user-attachments/assets/4bc02d31-2adc-4dfd-b4e2-78dad8f05369" />
-
-
-
-These metrics reflect the stability and scalability of the underlying infrastructure I architected, including on-prem Kubernetes (k3s), CI/CD pipelines via GitHub Actions, and secure internet access through Cloudflare Tunnel.
-
----
-
-### What I’m Building
-
-- **Production SaaS Infrastructure**  
-  Architecting, deploying, and operating a live SaaS platform with real users, uptime requirements, and secure external access.
-
-- **On-Prem Kubernetes Platforms**  
-  Managing containerized workloads using **k3s**, with a focus on availability, scalability, and operational simplicity.
-
-- **Automated CI/CD Pipelines**  
-  Designing and maintaining **GitHub Actions** workflows for build, test, and deployment automation.
-
----
-
-### Other Professional Projects
-
-**Zero Trust Network Access (ZTNA) Implementation — Twingate**
-
-Designed and implemented a **Zero Trust Network Access (ZTNA)** solution for a **mid-sized organization**, modernizing remote access and eliminating reliance on traditional VPNs.
-
-- Provisioned and administered **Linux virtual machines** to host **Docker-based Twingate Connectors**
-- Deployed and maintained connectors using **Docker** for high availability and secure service access
-- Defined and enforced **resource-level access policies** for internal applications and services
-- Integrated **Single Sign-On (SSO)** with centralized identity providers
-- Implemented **role-based access control (RBAC)** to restrict access by user group and role
-- Enforced **Multi-Factor Authentication (MFA)** to strengthen identity security
-
-**Impact:** Reduced network attack surface, improved access control, and enabled secure remote access to internal resources without exposing the network publicly.
-
----
-
-### What I Care About
-
-- **Reliable Infrastructure** — systems that are stable, observable, and scalable  
-- **Security-First Design** — zero-trust networking, least-privilege access, and MFA  
-- **Automation & Repeatability** — CI/CD and infrastructure as code to reduce manual effort  
-- **End-to-End Ownership** — design, deploy, operate, and continuously improve systems  
-
----
-
-### Core Skills & Technologies
-
-**DevOps & Infrastructure**
-- Docker, Kubernetes (k3s), GitHub Actions, CI/CD
-- Cloudflare Tunnel, NGINX, Linux
-- Monitoring & visualization (Grafana)
-
-**Cloud & Platforms**
-- AWS, Azure
-- On-prem infrastructure
-- Terraform (learning)
-
-**Security & Networking**
+- CMMC cybersecurity requirements
+- NIST Cybersecurity Framework (CSF)
+- NIST SP 800-171
+- NIST SP 800-53
+- Zero Trust Architecture
 - Zero Trust Network Access (ZTNA)
-- Twingate
-- SSO, RBAC, MFA enforcement
+- Identity & Access Management (IAM)
+- Role-Based Access Control (RBAC)
+- Multi-Factor Authentication (MFA)
+- Single Sign-On (SSO)
+- Least-privilege access
+- Secure system configuration
+- System hardening
+- Network segmentation
+- Security logging and monitoring
+- Vulnerability management
+- Configuration management
+- Change management
+- Incident response
+- Security documentation and audit readiness
 
-**Data & Backend**
-- PostgreSQL
-- Python
-- Streamlit
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,git,grafana,html,kubernetes,linux,nginx,postgres,py" />
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40"/>
-</p>
+## 🛡️ Zero Trust Network Access — Twingate
+
+Designed and implemented a **Zero Trust Network Access (ZTNA)** solution for a mid-sized organization, modernizing remote access and reducing reliance on traditional VPN architecture.
+
+### Responsibilities
+
+- Provisioned and administered Linux virtual machines
+- Deployed Docker-based Twingate Connectors
+- Designed secure remote-access architecture
+- Implemented resource-level access policies
+- Integrated Single Sign-On (SSO)
+- Implemented Role-Based Access Control (RBAC)
+- Enforced Multi-Factor Authentication (MFA)
+- Applied least-privilege access principles
+- Maintained highly available connectors
+- Secured access to internal applications and services
+- Reduced unnecessary public exposure of internal resources
+
+### Security Impact
+
+The architecture moved remote access toward an **identity-centric, least-privilege model**, reducing network attack surface while improving access control and security visibility.
+
+---
+
+## 🖥️ Systems Engineering
+
+Hands-on experience designing, deploying, securing, and maintaining infrastructure across **on-premises and cloud environments**.
+
+### Systems Administration
+
+- Linux server administration
+- Virtual machine administration
+- System hardening
+- Secure configuration
+- Software and patch management
+- System troubleshooting
+- Production infrastructure maintenance
+- Infrastructure documentation
+- System availability and reliability
+
+### Infrastructure
+
+- On-premises infrastructure
+- AWS
+- Azure
+- Linux
+- Virtual machines
+- Docker
+- Kubernetes
+- k3s
+- NGINX
+- Cloudflare
+
+---
+
+## 🌐 Network Security
+
+- TCP/IP
+- DNS
+- Network segmentation
+- Secure remote access
+- Zero Trust architecture
+- ZTNA
+- Reverse proxies
+- NGINX
+- Cloudflare Tunnel
+- Access-control policies
+- Network boundary protection
+- Attack-surface reduction
+
+---
+
+## 🔑 Identity & Access Management
+
+- IAM
+- RBAC
+- MFA
+- SSO
+- Least privilege
+- Privileged access management concepts
+- User and group access control
+- Resource-level authorization
+- Administrative account security
+- Access reviews
+
+---
+
+## 📋 CMMC & NIST Security Engineering
+
+Focused on implementing technical controls and infrastructure practices that support **CMMC and NIST-aligned environments**.
+
+### Access Control
+
+- Account management
+- Least-privilege access
+- RBAC
+- MFA
+- SSO
+- Remote-access restrictions
+- Resource-level authorization
+
+### Configuration Management
+
+- Secure configuration baselines
+- System hardening
+- Configuration tracking
+- Change management
+- Infrastructure standardization
+- Configuration drift reduction
+- Infrastructure as Code
+
+### System & Communications Protection
+
+- Network segmentation
+- Boundary protection
+- Secure remote access
+- Zero Trust architecture
+- Encryption
+- Secure network architecture
+- Reduction of publicly exposed services
+
+### System & Information Integrity
+
+- Security monitoring
+- Logging
+- Vulnerability identification
+- Patch management
+- System integrity monitoring
+- Security alerting
+- Continuous improvement
+
+### Audit & Accountability
+
+- Access logging
+- System logging
+- Security event monitoring
+- Configuration tracking
+- Infrastructure documentation
+- Operational visibility
+- Audit-supporting evidence
+
+### Incident Response
+
+- Security event identification
+- Monitoring and alerting
+- Incident documentation
+- Containment concepts
+- Root-cause analysis
+- Remediation
+- Continuous security improvement
+
+---
+
+## 🐳 Docker & Container Security
+
+- Containerized application deployment
+- Docker administration
+- Container networking
+- Containerized production services
+- Container image management
+- Secure container configuration
+- Workload isolation
+- Docker-based infrastructure
+- CI/CD container workflows
+
+---
+
+## ☸️ Kubernetes / k3s
+
+- On-prem Kubernetes administration
+- k3s cluster deployment
+- Container orchestration
+- Kubernetes workloads
+- Kubernetes networking
+- Ingress configuration
+- Kubernetes RBAC
+- Cluster monitoring
+- Production troubleshooting
+- Application deployment
+- Workload availability
+- Kubernetes security
+
+---
+
+## 🔄 DevSecOps & CI/CD
+
+I use automation to create **repeatable, controlled, and reliable infrastructure and application delivery processes**.
+
+### GitHub Actions
+
+- Automated builds
+- Automated testing
+- Container workflows
+- Deployment automation
+- Production releases
+- Git-based workflows
+- Repeatable deployments
+- CI/CD pipeline maintenance
+
+### Infrastructure as Code
+
+Currently expanding my Infrastructure as Code expertise with **Terraform**.
+
+- Infrastructure provisioning
+- Version-controlled infrastructure
+- Configuration standardization
+- Automated deployments
+- Configuration consistency
+- Change tracking
+- Infrastructure repeatability
+- Compliance-oriented infrastructure automation
+
+---
+
+## 📊 Monitoring & Observability
+
+- Grafana
+- Infrastructure monitoring
+- Application monitoring
+- System health monitoring
+- Resource utilization monitoring
+- Logging
+- Operational visibility
+- Alerting
+- Production troubleshooting
+- Security-event visibility
+
+---
+
+## 🚨 Incident Response & Security Operations
+
+- Security event monitoring
+- Infrastructure anomaly detection
+- Incident investigation
+- Log analysis
+- Incident documentation
+- Containment and remediation
+- Root-cause analysis
+- Corrective actions
+- Security improvement
+- Operational recovery
+
+---
+
+## 🧪 Vulnerability & Risk Management
+
+- Vulnerability identification
+- Risk-based remediation
+- System hardening
+- Security patching
+- Attack-surface reduction
+- Service minimization
+- Configuration review
+- Remediation tracking
+- Security validation
+- Risk documentation
