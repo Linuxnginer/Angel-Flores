@@ -1,360 +1,163 @@
-# Hi, I'm Angel Flores 👋
+I'm Angel Flores II
 
-### Cybersecurity Systems Engineer — CMMC & NIST Compliance Focus
+## Systems Engineer | Cybersecurity | CMMC & NIST SP 800-171 | AI Governance\
 
-Cybersecurity-focused **Systems Engineer** with **6+ years of experience** designing, deploying, securing, and operating production IT infrastructure across enterprise and mid-sized DIB environments.
+Cybersecurity-focused **Systems Engineer with 6+ years of experience designing, deploying, securing, automating, and operating production IT infrastructure** across enterprise and Defense Industrial Base (DIB) environments.
 
-My background combines **systems engineering, cybersecurity, infrastructure, Zero Trust, DevSecOps, and automation**, with a growing focus on **CMMC and NIST-aligned security environments**.
+I bridge **systems engineering, cybersecurity, DevOps, compliance, and emerging AI governance** to build infrastructure that is secure, resilient, observable, automated, and auditable.
 
-I build infrastructure that is **secure, resilient, observable, automated, and auditable**.
+### What I Do
 
----
+**Build → Secure → Automate → Monitor → Govern**
 
-## 🔐 Cybersecurity & Compliance Focus
+I turn business and security requirements into **working infrastructure, security controls, automated workflows, and measurable operational outcomes**.
 
-- CMMC cybersecurity requirements
-- NIST Cybersecurity Framework (CSF)
-- NIST SP 800-171
-- NIST SP 800-53
-- Zero Trust Architecture
-- Zero Trust Network Access (ZTNA)
-- Identity & Access Management (IAM)
-- Role-Based Access Control (RBAC)
-- Multi-Factor Authentication (MFA)
-- Single Sign-On (SSO)
-- Least-privilege access
-- Secure system configuration
-- System hardening
-- Network segmentation
-- Security logging and monitoring
-- Vulnerability management
-- Configuration management
-- Change management
-- Incident response
-- Security documentation and audit readiness
+### Core Expertise
 
----
+**🖥️ Systems Engineering**
 
-## 🛡️ Zero Trust Network Access — Twingate
-
-Designed and implemented a **Zero Trust Network Access (ZTNA)** solution for a mid-sized organization, modernizing remote access and reducing reliance on traditional VPN architecture.
-
-### Responsibilities
-
-- Provisioned and administered Linux virtual machines
-- Deployed Docker-based Twingate Connectors
-- Designed secure remote-access architecture
-- Implemented resource-level access policies
-- Integrated Single Sign-On (SSO)
-- Implemented Role-Based Access Control (RBAC)
-- Enforced Multi-Factor Authentication (MFA)
-- Applied least-privilege access principles
-- Maintained highly available connectors
-- Secured access to internal applications and services
-- Reduced unnecessary public exposure of internal resources
-
-### Security Impact
-
-The architecture moved remote access toward an **identity-centric, least-privilege model**, reducing network attack surface while improving access control and security visibility.
-
----
-
-## 🖥️ Systems Engineering
-
-Hands-on experience designing, deploying, securing, and maintaining infrastructure across **on-premises and cloud environments**.
-
-### Systems Administration
-
-- Linux server administration
-- Virtual machine administration
-- System hardening
-- Secure configuration
-- Software and patch management
-- System troubleshooting
-- Production infrastructure maintenance
-- Infrastructure documentation
-- System availability and reliability
-
-### Infrastructure
-
-- On-premises infrastructure
-- AWS
-- Azure
-- Linux
-- Virtual machines
-- Docker
-- Kubernetes
-- k3s
+- Linux administration
+- Windows / enterprise infrastructure
+- Virtualization
+- AWS & Azure
+- Networking and TCP/IP
+- DNS
 - NGINX
 - Cloudflare
+- Production troubleshooting
+- Infrastructure reliability and availability
 
----
+**🔐 Cybersecurity**
 
-## 🌐 Network Security
-
-- TCP/IP
-- DNS
-- Network segmentation
-- Secure remote access
-- Zero Trust architecture
+- Zero Trust Architecture
 - ZTNA
-- Reverse proxies
-- NGINX
-- Cloudflare Tunnel
-- Access-control policies
-- Network boundary protection
+- IAM / RBAC
+- MFA / SSO
+- Least privilege
+- System hardening
+- Network segmentation
+- Vulnerability management
+- Security monitoring and logging
+- Incident response
+- Risk management
 - Attack-surface reduction
 
----
+**📋 CMMC & NIST**
 
-## 🔑 Identity & Access Management
+- CMMC cybersecurity requirements
+- NIST SP 800-171
+- NIST SP 800-53
+- NIST Cybersecurity Framework
+- Security control implementation
+- Secure configuration
+- Configuration management
+- Access control
+- System & communications protection
+- Audit & accountability
+- Security documentation
+- Audit readiness
+- Compliance-oriented infrastructure
 
-- IAM
-- RBAC
-- MFA
-- SSO
-- Least privilege
-- Privileged access management concepts
-- User and group access control
-- Resource-level authorization
-- Administrative account security
-- Access reviews
+**⚙️ DevOps / DevSecOps**
 
----
-
-## 📋 CMMC & NIST Security Engineering
-
-Focused on implementing technical controls and infrastructure practices that support **CMMC and NIST-aligned environments**.
-
-### Access Control
-
-- Account management
-- Least-privilege access
-- RBAC
-- MFA
-- SSO
-- Remote-access restrictions
-- Resource-level authorization
-
-### Configuration Management
-
-- Secure configuration baselines
-- System hardening
-- Configuration tracking
-- Change management
-- Infrastructure standardization
-- Configuration drift reduction
+- Git / GitHub
+- GitHub Actions
+- CI/CD pipelines
+- Automated builds and testing
+- Automated deployments
+- Containerized workflows
+- Production release processes
+- Infrastructure automation
 - Infrastructure as Code
+- Terraform
+- Configuration standardization
+- Version-controlled infrastructure
+- Repeatable deployments
+- Security integrated into delivery pipelines
 
-### System & Communications Protection
+**🐳 Containers & Orchestration**
 
-- Network segmentation
-- Boundary protection
-- Secure remote access
-- Zero Trust architecture
-- Encryption
-- Secure network architecture
-- Reduction of publicly exposed services
-
-### System & Information Integrity
-
-- Security monitoring
-- Logging
-- Vulnerability identification
-- Patch management
-- System integrity monitoring
-- Security alerting
-- Continuous improvement
-
-### Audit & Accountability
-
-- Access logging
-- System logging
-- Security event monitoring
-- Configuration tracking
-- Infrastructure documentation
-- Operational visibility
-- Audit-supporting evidence
-
-### Incident Response
-
-- Security event identification
-- Monitoring and alerting
-- Incident documentation
-- Containment concepts
-- Root-cause analysis
-- Remediation
-- Continuous security improvement
-
----
-
-## 🐳 Docker & Container Security
-
-- Containerized application deployment
-- Docker administration
+- Docker
 - Container networking
-- Containerized production services
 - Container image management
 - Secure container configuration
 - Workload isolation
-- Docker-based infrastructure
-- CI/CD container workflows
-
----
-
-## ☸️ Kubernetes / k3s
-
-- On-prem Kubernetes administration
-- k3s cluster deployment
-- Container orchestration
-- Kubernetes workloads
-- Kubernetes networking
-- Ingress configuration
+- Kubernetes
+- k3s
 - Kubernetes RBAC
+- Ingress
 - Cluster monitoring
 - Production troubleshooting
-- Application deployment
-- Workload availability
-- Kubernetes security
 
----
-
-## 🔄 DevSecOps & CI/CD
-
-I use automation to create **repeatable, controlled, and reliable infrastructure and application delivery processes**.
-
-### GitHub Actions
-
-- Automated builds
-- Automated testing
-- Container workflows
-- Deployment automation
-- Production releases
-- Git-based workflows
-- Repeatable deployments
-- CI/CD pipeline maintenance
-
-### Infrastructure as Code
-
-Currently expanding my Infrastructure as Code expertise with **Terraform**.
-
-- Infrastructure provisioning
-- Version-controlled infrastructure
-- Configuration standardization
-- Automated deployments
-- Configuration consistency
-- Change tracking
-- Infrastructure repeatability
-- Compliance-oriented infrastructure automation
-
----
-
-## 📊 Monitoring & Observability
+**📊 Monitoring & Observability**
 
 - Grafana
 - Infrastructure monitoring
 - Application monitoring
 - System health monitoring
-- Resource utilization monitoring
 - Logging
-- Operational visibility
 - Alerting
-- Production troubleshooting
 - Security-event visibility
+- Resource monitoring
+- Operational troubleshooting
 
----
+**🤖 AI Governance & Security**
 
-## 🚨 Incident Response & Security Operations
+- AI governance
+- AI risk management
+- NIST AI RMF
+- AI security
+- AI policy and controls
+- AI vendor/model risk
+- Data governance
+- Secure AI infrastructure
+- AI monitoring and oversight
+- Responsible AI adoption
 
-- Security event monitoring
-- Infrastructure anomaly detection
-- Incident investigation
-- Log analysis
-- Incident documentation
-- Containment and remediation
-- Root-cause analysis
-- Corrective actions
-- Security improvement
-- Operational recovery
+### Selected Engineering Work
 
----
+**Zero Trust Network Access**
 
-## 🧪 Vulnerability & Risk Management
+Designed and implemented a ZTNA environment using **Twingate, Linux, Docker, SSO, RBAC, and MFA**.
 
-- Vulnerability identification
-- Risk-based remediation
-- System hardening
-- Security patching
-- Attack-surface reduction
-- Service minimization
-- Configuration review
-- Remediation tracking
-- Security validation
-- Risk documentation
+The architecture reduced dependence on traditional VPN access, limited public exposure of internal services, and moved remote access toward an **identity-centric, least-privilege security model**.
 
-## 🚀 Hobbies & Emerging Technology Interests
+**DevSecOps & Infrastructure Automation**
 
-Outside of cybersecurity and systems engineering, I enjoy exploring emerging technologies that combine **automation, artificial intelligence, robotics, autonomous systems, and connected infrastructure**.
+Build repeatable infrastructure and application delivery workflows using **Git, GitHub Actions, Docker, CI/CD, and Infrastructure as Code**.
 
-### 🏃 Running
+My focus is on making deployments **repeatable, controlled, observable, and secure**, while reducing configuration drift and manual operational work.
 
-Running is one of my favorite ways to stay active, maintain discipline, and continuously challenge myself.
+**CMMC / NIST Security Engineering**
 
-- Distance running
-- Fitness and endurance training
-- Goal-oriented training
-- Outdoor running
-- Personal performance tracking
+Focus on translating cybersecurity requirements into **technical controls and operational infrastructure** rather than treating compliance as documentation alone.
 
-### 🚁 Drone Technology
+The objective is to build environments where controls are **implemented, monitored, documented, and auditable**.
 
-I have a strong interest in **drone technology and unmanned aerial systems (UAS)**, particularly the intersection of autonomous flight, sensors, communications, and software.
+### Technology Stack
 
-- Drone technology and UAS
-- Autonomous flight systems
-- Navigation and positioning technologies
-- Computer vision
-- Remote sensing
-- Drone communications
-- Flight-control systems
-- Edge computing
-- Drone cybersecurity
-- Autonomous mission systems
+**Cloud:** AWS, Azure  
+**Operating Systems:** Linux, Windows  
+**Containers:** Docker, Kubernetes, k3s  
+**DevOps:** Git, GitHub Actions, CI/CD, Terraform  
+**Networking:** TCP/IP, DNS, NGINX, Cloudflare, segmentation, ZTNA  
+**Security:** IAM, RBAC, MFA, SSO, Zero Trust, hardening, vulnerability management  
+**Monitoring:** Grafana, logging, alerting, observability  
+**Compliance:** CMMC, NIST SP 800-171, NIST SP 800-53, NIST CSF  
+**AI:** AI Governance, NIST AI RMF, AI Security, AI Risk Management
 
-### 🤖 AI & Autonomous Vehicles
+### The Bigger Picture
 
-I am particularly interested in the development of **AI-powered autonomous vehicles and robotic systems**.
+My career focus is the intersection of:
 
-Areas I enjoy exploring include:
+**Systems Engineering**  
+↓  
+**Cybersecurity**  
+↓  
+**DevSecOps & Automation**  
+↓  
+**CMMC / NIST Security Engineering**  
+↓  
+**AI Governance & Security**
 
-- Artificial intelligence and machine learning
-- Autonomous navigation
-- Computer vision
-- Sensor fusion
-- Robotics
-- Edge AI
-- Autonomous decision-making
-- Vehicle-to-vehicle and vehicle-to-infrastructure communication
-- Intelligent transportation systems
-- AI-assisted situational awareness
-- Autonomous drones and unmanned systems
-- Cybersecurity for autonomous systems
-
-### 🔐 Cybersecurity + Autonomous Technology
-
-A long-term area of interest is the intersection of **cybersecurity, AI, cloud infrastructure, and autonomous systems**.
-
-I am especially interested in how security engineering can be applied to systems that operate with increasing levels of autonomy, including:
-
-- Securing AI-enabled systems
-- Protecting autonomous vehicles and drones
-- Identity and access management for autonomous systems
-- Secure communications between devices and control systems
-- Zero Trust for IoT and autonomous environments
-- Edge-computing security
-- AI infrastructure security
-- Monitoring and detection for autonomous platforms
-- Secure software and firmware deployment
-- Resilient and auditable autonomous infrastructure
-
-My goal is to continue developing expertise at the intersection of **cybersecurity, systems engineering, AI, and autonomous technology** while building infrastructure that is secure, reliable, observable, and resilient.
+I want to build and secure technology environments that organizations can **operate confidently, scale responsibly, demonstrate compliance, and adopt AI securely**.
