@@ -291,3 +291,70 @@ Currently expanding my Infrastructure as Code expertise with **Terraform**.
 - Remediation tracking
 - Security validation
 - Risk documentation
+
+## 🚀 Hobbies & Emerging Technology Interests
+
+Outside of cybersecurity and systems engineering, I enjoy exploring emerging technologies that combine **automation, artificial intelligence, robotics, autonomous systems, and connected infrastructure**.
+
+### 🏃 Running
+
+Running is one of my favorite ways to stay active, maintain discipline, and continuously challenge myself.
+
+- Distance running
+- Fitness and endurance training
+- Goal-oriented training
+- Outdoor running
+- Personal performance tracking
+
+### 🚁 Drone Technology
+
+I have a strong interest in **drone technology and unmanned aerial systems (UAS)**, particularly the intersection of autonomous flight, sensors, communications, and software.
+
+- Drone technology and UAS
+- Autonomous flight systems
+- Navigation and positioning technologies
+- Computer vision
+- Remote sensing
+- Drone communications
+- Flight-control systems
+- Edge computing
+- Drone cybersecurity
+- Autonomous mission systems
+
+### 🤖 AI & Autonomous Vehicles
+
+I am particularly interested in the development of **AI-powered autonomous vehicles and robotic systems**.
+
+Areas I enjoy exploring include:
+
+- Artificial intelligence and machine learning
+- Autonomous navigation
+- Computer vision
+- Sensor fusion
+- Robotics
+- Edge AI
+- Autonomous decision-making
+- Vehicle-to-vehicle and vehicle-to-infrastructure communication
+- Intelligent transportation systems
+- AI-assisted situational awareness
+- Autonomous drones and unmanned systems
+- Cybersecurity for autonomous systems
+
+### 🔐 Cybersecurity + Autonomous Technology
+
+A long-term area of interest is the intersection of **cybersecurity, AI, cloud infrastructure, and autonomous systems**.
+
+I am especially interested in how security engineering can be applied to systems that operate with increasing levels of autonomy, including:
+
+- Securing AI-enabled systems
+- Protecting autonomous vehicles and drones
+- Identity and access management for autonomous systems
+- Secure communications between devices and control systems
+- Zero Trust for IoT and autonomous environments
+- Edge-computing security
+- AI infrastructure security
+- Monitoring and detection for autonomous platforms
+- Secure software and firmware deployment
+- Resilient and auditable autonomous infrastructure
+
+My goal is to continue developing expertise at the intersection of **cybersecurity, systems engineering, AI, and autonomous technology** while building infrastructure that is secure, reliable, observable, and resilient.
