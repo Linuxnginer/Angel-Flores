@@ -2,7 +2,7 @@
 
 ### Cybersecurity Systems Engineer — CMMC & NIST Compliance Focus
 
-Cybersecurity-focused **Systems Engineer** with **5+ years of experience** designing, deploying, securing, and operating production IT infrastructure across enterprise and mid-sized business environments.
+Cybersecurity-focused **Systems Engineer** with **6+ years of experience** designing, deploying, securing, and operating production IT infrastructure across enterprise and mid-sized DIB environments.
 
 My background combines **systems engineering, cybersecurity, infrastructure, Zero Trust, DevSecOps, and automation**, with a growing focus on **CMMC and NIST-aligned security environments**.
 
