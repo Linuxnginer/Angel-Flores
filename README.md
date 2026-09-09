@@ -1,6 +1,6 @@
 ## I'm Angel Flores 
 
-## Systems Engineer | Cybersecurity | CMMC & NIST SP 800-171 | AI Governance\
+## Systems Engineer | Cybersecurity | CMMC & NIST SP 800-171 | AI Governance
 
 Cybersecurity-focused **Systems Engineer with 6+ years of experience designing, deploying, securing, automating, and operating production IT infrastructure** across enterprise and Defense Industrial Base (DIB) environments.
 
@@ -9,6 +9,9 @@ I bridge **systems engineering, cybersecurity, DevOps, compliance, and emerging
 ### What I Do
 
 **Build → Secure → Automate → Monitor → Govern**
+
+REPO: 
+https://github.com/Linuxnginer/CMMC-Endpoint-Audit/tree/main
 
 I turn business and security requirements into **working infrastructure, security controls, automated workflows, and measurable operational outcomes**.
 
