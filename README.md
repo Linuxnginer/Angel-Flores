@@ -1,10 +1,10 @@
 ## I'm Angel Flores 
 
-## Systems Engineer | Cybersecurity | CMMC & NIST SP 800-171 | AI Governance
+## Systems Engineer | CMMC & NIST SP 800-171 | AI Governance
 
-Cybersecurity-focused **Systems Engineer with 6+ years of experience designing, deploying, securing, automating, and operating production IT infrastructure** across enterprise and Defense Industrial Base (DIB) environments.
+Cybersecurity-focused **Systems Engineer with 6+ years of experience designing, deploying, securing, automating, and operating production IT infrastructure** across Defense Industrial Base (DIB) environments.
 
-I bridge **systems engineering, cybersecurity, DevOps, compliance, and emerging AI governance** to build infrastructure that is secure, resilient, observable, automated, and auditable.
+I bridge **systems engineering, cybersecurity, DevOps, compliance, and emerging AI governance** to build infrastructure that is secure, resilient, automated, and auditable, which help Small DIB organization bid for
 
 ### What I Do
 
@@ -21,21 +21,15 @@ I turn business and security requirements into **working infrastructure, securi
 
 - Linux administration
 - Windows / enterprise infrastructure
-- Virtualization
-- AWS & Azure
-- Networking and TCP/IP
-- DNS
-- NGINX
-- Cloudflare
-- Production troubleshooting
-- Infrastructure reliability and availability
+- AWS, Azure, ans Microsoft GCCH
+- FedRAMP
+- Cybersecurity CMMC Framework
+
 
 **🔐 Cybersecurity**
 
 - Zero Trust Architecture
-- ZTNA
 - IAM / RBAC
-- MFA / SSO
 - Least privilege
 - System hardening
 - Network segmentation
